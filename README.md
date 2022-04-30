@@ -1,4 +1,4 @@
-Example GraphQL project with Axum
+# Example GraphQL project with Axum
 
 This is a simple example GraphQL project I made to learn the basics of GraphQL, perhaps you will find this useful.
 
